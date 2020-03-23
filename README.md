@@ -26,7 +26,21 @@ Sorry... We are changing every 12 hours, so hard to keep the documentation up.
 
 * Tech Team is about 8. Non Tech team about 8-15.
 * Juniors
-* Midlevel front end (angular, or bootstrap, or whatever/agnostic)
-* Backend 
+* Midlevel front end (angular, or bootstrap, or whatever/agnostic; some flutter and React; we don't care, we just want fast)
+* Backend (this we do slowly, since we're focusing on the scaling issue)
   * ("babyAPI" with no security to get the front end mocked up), and
   * bulletproof API with google realtime Database for 100,000-10,000,000 users.
+  
+## Authored by Howard Chong, Technical Coordinator, Boots on the Ground 3/21
+Contact us:
+I'm "hocho" on the discord server. (Discord https://discord.gg/vuNVr8H). *** highly preferred, checked almost hourly.
+chongare@gmail.com *** slow, checked 2x a day usually.
+Or you can text me at this number (24/7, not checked when sleeping) 3 × 3 × 13 × 19 × 19 × 143779. (that's my cell number)
+
+Or contact Jenny (@ChinpokomonGo#8548 on the Discord server)
+
+For tech, check out the `#web-app-tech` channel on the discord. Look at the pinned message and do the Daily Checking which has instructions for new people looking into the project. Links to our repos there.
+
+### This repo is empty (zero code). Our main repos are here:
+https://github.com/orgs/BootsOnTheGround-3Caretakers/people
+
