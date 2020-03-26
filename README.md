@@ -3,6 +3,18 @@
 ## PROBLEM
 We love Helpboards/FacebookGroups/invisibleshandsdeliver.com, but we anticipate a huge scaling problem. In 2 weeks, the number of need requests is going to increase by 100 to 1000X. We believe most matching systems will grind to a halt.
 
+#### Want a pretty use case:
+go here
+https://docs.google.com/document/d/1S5gBb9bhvUBl6A48BGt_E1CYXtvXI8J8TrOw9u-tSIQ/edit
+
+#### Want a tech problem definition with variables and algorithms use case:
+go here
+https://docs.google.com/document/d/1KDrYs5sh1cv2Vuaxl3hnzMtLEIW97as1dl65wCSX_-8/edit#heading=h.1evn3bmx9vt9
+
+#### Convinced and have tech skills
+Fill this out.
+
+
 ## SOLUTION
 We don't want to make a new app.  We want simple matching services. 
 
@@ -39,8 +51,10 @@ Or you can text me at this number (24/7, not checked when sleeping) 3 × 3 × 13
 
 Or contact Jenny (@ChinpokomonGo#8548 on the Discord server)
 
-For tech, check out the `#web-app-tech` channel on the discord. Look at the pinned message and do the Daily Checking which has instructions for new people looking into the project. Links to our repos there.
+For tech, check out the `#web-app-tech` channel on the discord. Look at the pinned message and do the Daily Checkin which has instructions for new people looking into the project. Links to our repos there.
 
-### This repo is empty (zero code). Our main repos are here:
-https://github.com/orgs/BootsOnTheGround-3Caretakers/people
+### This repo (CoronavirusArmy/Boots-on-the-Ground) is empty (zero code) and just points you to our main repo. Our main repos are here:
+https://github.com/orgs/BootsOnTheGround-3Caretakers/
+
+front end: https://github.com/BootsOnTheGround-3Caretakers/ --> front-end-angular
 
