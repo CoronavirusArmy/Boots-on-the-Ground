@@ -13,6 +13,7 @@ https://docs.google.com/document/d/1KDrYs5sh1cv2Vuaxl3hnzMtLEIW97as1dl65wCSX_-8/
 
 #### Convinced and have tech skills
 Fill this out.
+https://docs.google.com/spreadsheets/d/1AZ3U3cR3w4SLJeSaqg7lSz74RQ8JETRlWFaXlju3DiE/edit#gid=0
 
 
 ## SOLUTION
